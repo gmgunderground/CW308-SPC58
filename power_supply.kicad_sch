@@ -1299,6 +1299,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "1V3"
+		(exclude_from_sim no)
+		(at 128.27 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4302b6cf-f6d0-494e-a516-4fe9b6d60bc5")
+	)
+	(text "Resistive divider to generate 1.3V output"
+		(exclude_from_sim no)
+		(at 73.406 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bb76a77b-c3f0-4bb0-acc7-95df61a89385")
+	)
 	(junction
 		(at 215.9 85.09)
 		(diameter 0)
